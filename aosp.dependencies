@@ -1,0 +1,25 @@
+[
+  {
+    "remote": "los"
+    "repository": "LineageOS/android_kernel_xiaomi_msm8996",
+    "target_path": "kernel/xiaomi/msm8996",
+    "branch": "lineage-15.1"
+  },
+  {
+    "repository": "device_xiaomi_msm8996-common",
+    "target_path": "device/xiaomi/msm8996-common"
+    "branch": "8.1.x"
+  },
+  {
+    "remote":      "los",
+    "repository":  "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "lineage-15.1"
+  },
+    {
+    "remote":      "TheMuppets",
+    "repository":  "TheMuppets/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "lineage-15.1"
+  }
+]
